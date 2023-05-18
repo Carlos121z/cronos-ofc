@@ -55,8 +55,10 @@ LOGO EM SEGUIDA JÁ COM A PASTA INSTALADA, APLIQUE O SEGUINTE COMANDO:
 
 ___-_-_-_-_-
 
-cd /sdcard && cd cronos-ofc && sh start.sh  
+cd /sdcard && cd cronos-ofc && sh start.sh
+
+___-_-_-_-_-
 
 _- SÓ BASTA COPIAR ELE TODO, E COLAR LÁ, NÃO É PRA COPIAR A METADE NEM UMA COISA SÓ, É TODO.
 
- -  ▏© Copyright by Lúcifer.
+© Copyright by Lúcifer BaniSher.
