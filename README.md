@@ -43,10 +43,20 @@ E permite.
 
 __-_-_-_-_-
 
-COMANDO PRA INSTALAR A PASTA DO BOT, APÓS TUDO OU NÃO ERA NESCESSARIO:
+APÓS ISSO PARA INSTALAR A PASTA DO BOT, ENTRE NO LINK ABAIXO E FAÇA DOWNLOAD:
 
 ___-_-_-_-_-
 
-cd /sdcard && git clone https://github.com/ocarlosplug7/cronos-ofc.git && cd cronos-ofc && sh start.sh  
+https://mega.nz/file/ZOQz3KBB#XA-t2J3cCQDemtfaUby9f-BUAZKp7ehCA5Dk8GhtvhI
 
-_- SÓ BASTA COPIAR ELE TODO, E COLAR LÁ, NÃO É PRA COPIAR A METADE NEM UMA COISA SÓ, É TODO. 
+___-_-_-_-_-
+
+LOGO EM SEGUIDA JÁ COM A PASTA INSTALADA, APLIQUE O SEGUINTE COMANDO:
+
+___-_-_-_-_-
+
+cd /sdcard && cd cronos-ofc && sh start.sh  
+
+_- SÓ BASTA COPIAR ELE TODO, E COLAR LÁ, NÃO É PRA COPIAR A METADE NEM UMA COISA SÓ, É TODO.
+
+ -  ▏© Copyright by Lúcifer.
