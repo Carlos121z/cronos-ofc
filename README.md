@@ -1,15 +1,10 @@
 # Cronos-Md - BOT DE WHATSAPP
-
 <div align="center">
-
 <img src="https://telegra.ph/file/88833525fcc49f9fd4b1c.jpg" alt="Cronos MD - BOT" width="300" />
 
 </div>
-
 <p align="center">
-
   <a href="https://github.com/ocarlosplug7/cronos-ofc.git"><img title="Author" src="https://img.shields.io/badge/Author-Carlos-red.svg?style=for-the-badge&logo=github" /></a>
-
   <h4 align="center">
 
 Precisa de ajuda ? 
