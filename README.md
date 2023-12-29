@@ -28,19 +28,19 @@ Comandos  do termux:
 ```
 termux-change-repo 
 ```
-# Confirma, marca a terceira caixinha e confirma e prossegue > 
+Confirma, marca a terceira caixinha e confirma e prossegue > 
 
 # 2° Comando
 ```
 apt-get upgrade
 ```
-# Vai precisar digitar y e confirmar toda vez que pedir.
+Vai precisar digitar y e confirmar toda vez que pedir.
 
 # 3° Comando
 ```
 apt-get update
 ```
-# Vai precisar digitar y e confirmar toda vez que pedir.
+Vai precisar digitar y e confirmar toda vez que pedir.
 
 # 4° Comando 
 ```
@@ -62,7 +62,7 @@ https://mega.nz/file/ZOQz3KBB#XA-t2J3cCQDemtfaUby9f-BUAZKp7ehCA5Dk8GhtvhI
 ```
 ___-_-_-_-_-
 
-# LOGO EM SEGUIDA JÁ COM A PASTA INSTALADA, APLIQUE O SEGUINTE COMANDO:
+LOGO EM SEGUIDA JÁ COM A PASTA INSTALADA, APLIQUE O SEGUINTE COMANDO:
 
 ___-_-_-_-_-
 ```
