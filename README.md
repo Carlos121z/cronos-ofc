@@ -6,8 +6,6 @@
 <p align="center">
 <a href="#"><img title="121 THERI0N DOMINA" src="https://img.shields.io/badge/121 THERI0N DOMINA-blue?&style=for-the-badge"></a>
 </p>
-
-</div>
 <p align="center">
   <a href="https://github.com/ocarlosplug7/cronos-ofc.git"><img title="Author" src="https://img.shields.io/badge/Author-Carlos-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
