@@ -1,11 +1,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Cronos-𝐁𝐎𝐓+𝐕1.0;MAIS+USADO+DO+BR+✰✰✰;100%+CONFIÁVEL+✰✰✰;✰121-THERI0N-DOMINA✰">
 
+<div align="center">
+<img src="https://telegra.ph/file/88833525fcc49f9fd4b1c.jpg" alt="Cronos MD - BOT" width="300" />
+
 <p align="center">
 <a href="#"><img title="121 THERI0N DOMINA" src="https://img.shields.io/badge/121 THERI0N DOMINA-blue?&style=for-the-badge"></a>
 </p>
-
-<div align="center">
-<img src="https://telegra.ph/file/88833525fcc49f9fd4b1c.jpg" alt="Cronos MD - BOT" width="300" />
 
 </div>
 <p align="center">
