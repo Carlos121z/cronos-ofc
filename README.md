@@ -20,9 +20,9 @@ _-_-_-_-_-_-_-_-_
 ```
 https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
 ```
-_-_-_-_-_-_-_-_-_-_
+---------------------------
 
-Comandos  do termux:
+## Instalação via Termux  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
 
 **1° Comando**
 ```
@@ -52,24 +52,24 @@ termux-setup-storage
 ```
 **E permite.**
 
-__-_-_-_-_-
+---------------------------
 
 APÓS ISSO PARA INSTALAR A PASTA DO BOT, ENTRE NO LINK ABAIXO E FAÇA DOWNLOAD:
 
-___-_-_-_-_-
+---------------------------
 ```
 https://mega.nz/file/ZOQz3KBB#XA-t2J3cCQDemtfaUby9f-BUAZKp7ehCA5Dk8GhtvhI
 ```
-___-_-_-_-_-
+---------------------------
 
 **LOGO EM SEGUIDA JÁ COM A PASTA INSTALADA, APLIQUE O SEGUINTE COMANDO:**
 
-___-_-_-_-_-
+---------------------------
 ```
-cd /sdcard && cd cronos-ofc && sh start.sh
+cd /sdcard && cd cronos-ofc
 ```
-___-_-_-_-_-
-
-_- SÓ BASTA COPIAR ELE TODO, E COLAR LÁ, NÃO É PRA COPIAR A METADE NEM UMA COISA SÓ, É TODO.
-
-# © Copyright by Lúcifer 121.
+## Iniciar o Bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
+```
+sh start.sh
+```
+## © Copyright by Lúcifer 121.
