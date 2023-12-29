@@ -17,9 +17,9 @@ https://chat.whatsapp.com/E7wpRSOPm53Fbx2fm8C2TQ
 _-_-_-_-_-_-_-_-_
 
 INSTALE O TERMUX VERSÃO 119
-
+```
 https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
-
+```
 _-_-_-_-_-_-_-_-_-_
 
 Comandos  do termux:
