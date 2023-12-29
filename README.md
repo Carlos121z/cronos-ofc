@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Cronos-𝐁𝐎𝐓+𝐕6.5;𝐌𝐀𝐈𝐒+𝐔𝐒𝐀𝐃𝐀+𝐃𝐎+𝐁𝐑;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Cronos-𝐁𝐎𝐓+𝐕1.0;𝐌𝐀𝐈𝐒+𝐔𝐒𝐀𝐃𝐀+𝐃𝐎+𝐁𝐑;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">
 
 <div align="center">
 <img src="https://telegra.ph/file/88833525fcc49f9fd4b1c.jpg" alt="Cronos MD - BOT" width="300" />
