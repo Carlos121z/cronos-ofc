@@ -8,6 +8,9 @@
   <a href="https://github.com/ocarlosplug7/cronos-ofc.git"><img title="Author" src="https://img.shields.io/badge/Author-Carlos-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
 
+  <img title="Versão" src="https://img.shields.io/badge/Versão-1.0.0-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+
 **Precisa de ajuda ?**
 
 ≪「𝐂𝐡𝐚𝐭 ﷼ 𝐂𝐫𝐨𝐧𝐨𝐬」≫
