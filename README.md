@@ -1,5 +1,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Cronos-𝐁𝐎𝐓+𝐕1.0;MAIS+USADO+DO+BR+✰✰✰;100%+CONFIÁVEL+✰✰✰;✰121-THERI0N-DOMINA✰">
 
+<p align="center">
+<a href="#"><img title="121 THERI0N DOMINA" src="https://img.shields.io/badge/121 THERI0N DOMINA-blue?&style=for-the-badge"></a>
+</p>
+
 <div align="center">
 <img src="https://telegra.ph/file/88833525fcc49f9fd4b1c.jpg" alt="Cronos MD - BOT" width="300" />
 
@@ -7,6 +11,7 @@
 <p align="center">
   <a href="https://github.com/ocarlosplug7/cronos-ofc.git"><img title="Author" src="https://img.shields.io/badge/Author-Carlos-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
+  
   <img title="Versão" src="https://img.shields.io/badge/Versão-1.0.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
