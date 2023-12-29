@@ -72,4 +72,4 @@ cd /sdcard && cd cronos-ofc
 ```
 sh start.sh
 ```
-## © Copyright by Lúcifer 121.
+**© Copyright by Lúcifer 121.**
