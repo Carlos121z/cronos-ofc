@@ -17,7 +17,9 @@
 
 ≪「𝐂𝐡𝐚𝐭 ﷼ 𝐂𝐫𝐨𝐧𝐨𝐬」≫
 
-https://chat.whatsapp.com/E7wpRSOPm53Fbx2fm8C2TQ
+https://chat.whatsapp.com/HFQm9WO2hPK1RKO6ZPnv3K
+
+</> entre e divirta-se!
 
 _-_-_-_-_-_-_-_-_
 
