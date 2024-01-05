@@ -24,9 +24,9 @@ https://chat.whatsapp.com/HFQm9WO2hPK1RKO6ZPnv3K
 _-_-_-_-_-_-_-_-_
 
 **INSTALE O TERMUX VERSÃO 119**
-```
+
 https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
-```
+
 ---------------------------
 
 ## Instalação via Termux  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
